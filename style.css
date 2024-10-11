@@ -1,0 +1,18 @@
+.avarta {
+  width: 150px;
+  height: 150px;
+
+  /* Tỉ lệ viềng avarta */
+  border-radius: 50%;
+  border: 1px solid #cccccc00;
+  margin-left: -80px;
+  padding: 8px;
+}
+
+.avarta:first-child {
+  margin-left: 8px;
+}
+
+.content {
+  background-color: antiquewhite;
+}
